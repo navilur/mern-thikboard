@@ -1,5 +1,7 @@
 <h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
 
+<h2 align="center"><a href="https://mern-thikboard.onrender.com">Live Link</a></h2>
+
 Highlights:
 
 - 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
